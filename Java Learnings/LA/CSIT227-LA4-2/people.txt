@@ -1,5 +1,0 @@
-Developer,Jea,25,47500.0
-Manager,Vince,28,32700.0
-Employee,Jeshiel,21,35000.0
-Customer,Mae,37,0.0
-Manager,Mary,24,50200.0
