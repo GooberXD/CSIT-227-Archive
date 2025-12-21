@@ -1,0 +1,5 @@
+interface InstantKiller {
+    
+    int killType();
+    
+}

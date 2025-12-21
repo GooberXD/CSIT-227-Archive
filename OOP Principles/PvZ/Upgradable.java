@@ -1,0 +1,3 @@
+interface Upgradable{
+    PlantUpgrade upgrade();
+}
