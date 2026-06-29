@@ -14,6 +14,8 @@ Welcome to my archive for **CSIT-227**. This repository contains a collection of
 | **Exceptions** | Implementations of error handling, try-catch-finally blocks, and custom exception classes. |
 | **File Handling** | Logic for reading from and writing to external files using various stream classes. |
 | **OOP Principles** | Core pillars: Encapsulation, Inheritance, Polymorphism, and Abstraction. |
+| **Creational Design Patterns** | Implementation of patterns focused on object creation mechanisms, such as Singleton or Factory, to increase flexibility and reuse. |
+| **Structural Design Patterns** | Exercises focused on assembling objects and classes into larger structures while keeping them flexible and efficient (e.g., Adapter, Decorator). |
 | **Throwaway Codes** | Experimental scripts, logic drafts, and miscellaneous practice problems. |
 
 ***
